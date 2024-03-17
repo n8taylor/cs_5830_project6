@@ -31,6 +31,6 @@ To set up the project environment:
 
 ## Important Links
 
-Report: [Google Docs]()
+Report: [Google Docs](https://docs.google.com/document/d/1lk4PDTUPbRsFw_1v2m4nbwlETAYU668Afd8fhLDqwJw/edit?usp=sharing)
 
-Presentation Slides: [Google Slides]()
+Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/1lx_Q9ylxFYrMHktcFgRFGzPBb3JkYZS8v1a3mW9nRFo/edit?usp=sharing)
